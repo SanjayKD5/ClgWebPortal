@@ -1,0 +1,51 @@
+#div1
+{
+	background-color:#007bff;
+	
+}
+
+#div2
+{
+	background-color:#007bff;
+}
+
+#head
+{
+font-family:algerian;
+font-size:435%; 
+color:white;	
+}
+
+#ul
+{
+	padding:01%;
+	float:bottom;
+}
+#ul a{
+	
+	color:white;
+	
+}
+
+#div-m{
+	
+	padding-top:1%;
+}
+marquee
+{
+	background-color:#007bff;
+	
+}
+#row1
+{
+	margin-top:1%;
+
+}
+
+#p1
+{
+	font-size:18;
+}
+.glyphicon.glyphicon-globe {
+    font-size: 75px;
+}
